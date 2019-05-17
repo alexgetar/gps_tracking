@@ -16,8 +16,6 @@ $file 		= 'infogath_update.php';
 
 $url 		= 'https://brad.josebernard.com/index/';
 
-error_reporting(0);
-
 // cek update
 function updated($version, $file)
 {
